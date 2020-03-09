@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Project.03.01.ManifestAndresorces</string>
+    <string name="app_name">To Do List</string>
+    <string name="stop_message">Stop.</string>
+
 </resources>
